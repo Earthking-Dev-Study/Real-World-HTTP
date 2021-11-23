@@ -34,3 +34,4 @@
 
 ## 태희
 - [[리얼월드 HTTP] 스터디 1주차 ~ 20p](https://medium.com/@godtaehee/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-http-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-20p-7c6aa9983caf)
+- [[리얼월드 HTTP] 스터디 2주차 20p ~ Chapter 1](https://medium.com/@godtaehee/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-http-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8-20p-chapter-1-94c0bb29a7c5)
