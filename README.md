@@ -17,7 +17,7 @@
 ## How
 
 - 일주일에 한 챕터씩 읽고 정리
-- 매주 수요일 7시에 회의
+- 매주 토요일 8시에 회의
 
 <br />
 
@@ -27,11 +27,13 @@
 | ------------------------ | -------- | ---------- |
 | Week1(21.11.10 ~ 11.17)  | 21.11.17 | ~ 20 Page  |
 | Week2(21.11.17 ~ 11.24)  | 21.11.24 | Chapter1   |
+| Week3(21.11.24 ~ 12.04   | 21.12.04 | Chapter2   |
 
 ## 도현
 
 - [[리얼월드 HTTP] 스터디 1주차](https://velog.io/@ksmfou98/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-HTTP-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8)
 - [[리얼월드 HTTP] 스터디 2주차](https://velog.io/@ksmfou98/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-HTTP-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8)
+- [[리얼월드 HTTP] 스터디 3주차](https://ksmfou98.github.io/Study/Real%20World%20HTTP/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C%20HTTP%203%EC%A3%BC%EC%B0%A8)
 
 
 ## 태희
