@@ -1,5 +1,6 @@
 package main
 
+// GET 메서드로 쿼리 전송하기
 import (
 	"io/ioutil"
 	"log"
